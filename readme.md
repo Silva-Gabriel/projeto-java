@@ -27,4 +27,4 @@ Este projeto é uma **API RESTful** desenvolvida como parte do Bootcamp **Decola
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/api-base-decola-tech-2025.git
+   git clone https://github.com/Silva-Gabriel/projeto-java.git
