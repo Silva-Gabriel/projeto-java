@@ -7,7 +7,6 @@ Este projeto é uma **API RESTful** desenvolvida como parte do Bootcamp **Decola
 - **Estrutura Base**: Fornecer uma arquitetura sólida e escalável para o desenvolvimento de APIs RESTful.
 - **Modularidade**: Permitir a fácil adição de novos recursos e módulos sem complicação.
 - **Boa Prática de Programação**: Aplicar as melhores práticas de programação, como princípios SOLID, validação de dados, e uso de padrões de design.
-- **Testes**: Implementação de testes automatizados para garantir a confiabilidade e qualidade da API.
 - **Segurança**: Configuração básica de autenticação e autorização para proteger os recursos da API.
 
 ## Tecnologias Utilizadas
@@ -16,7 +15,6 @@ Este projeto é uma **API RESTful** desenvolvida como parte do Bootcamp **Decola
 - **Spring Security**: Implementação de autenticação e autorização.
 - **JPA/Hibernate**: Mapeamento objeto-relacional para integração com o banco de dados.
 - **H2 Database**: Banco de dados em memória para testes e desenvolvimento.
-- **JUnit**: Framework de testes para garantir a qualidade do código.
 
 ## Funcionalidades Principais
 
