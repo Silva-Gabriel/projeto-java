@@ -28,3 +28,7 @@ Este projeto é uma **API RESTful** desenvolvida como parte do Bootcamp **Decola
 1. **Clone o Repositório**:
    ```bash
    git clone https://github.com/Silva-Gabriel/projeto-java.git
+
+### Acesse os arquivos zipados no link abaixo:
+
+<a href="https://drive.google.com/drive/folders/1rP2DZ-MfOusQzYaArLLvmkZX8Hh3_Y_P?usp=sharing">Google Drive</a>
